@@ -20,11 +20,18 @@ h1 {
   text-transform: uppercase;
   margin-bottom: 2rem;
   letter-spacing: 0.5rem;
-  word-spacing: 1.5rem;
+  word-spacing: 1rem;
+  font-size: 3.8rem;
 }
 
-.title {
-  margin: 10rem 0;
+.header {
+  margin: 5rem 0;
+}
+
+.header p {
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  font-size: 1.8rem;
 }
 
 .container {
