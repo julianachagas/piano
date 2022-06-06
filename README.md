@@ -23,7 +23,5 @@ Virtual piano built with HTML, CSS, and JavaScript. The piano keys can be played
 
 <br>
 
-
-
 ***
 ##### Made with 💜 by Juliana Chagas 
