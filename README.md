@@ -8,11 +8,21 @@ Virtual piano built with HTML, CSS, and JavaScript. The piano keys can be played
 - HTML
 - CSS
 - JavaScript
+
+### Features
+
+Users are able to:
+
+- [x] Play the keys using the mouse (click)
+- [x] Play the keys using the keyboard (keyboard controls are specified in the header)
+- [x] Hover the piano for hints: note names and keyboard controls are shown
 ### Concepts practiced
 
+- DOM manipulation
+- DOM traversal
 - Event bubbling
 - Event delegation
-- Mouse, keyboard and CSS events
+- Mouse, keyboard, and CSS events
 ### Resources
 
 - [DOM MasterClass by Rocketseat](https://www.youtube.com/watch?v=UftSB4DaRU4&ab_channel=Rocketseat)
