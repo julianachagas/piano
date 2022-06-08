@@ -3,7 +3,7 @@
 Virtual piano built with HTML, CSS, and JavaScript. The piano keys can be played with the mouse or keyboard. The goal of this project was to practice DOM (Document Object Model) manipulation and event handling.
 ### Link
 
-- Live Site URL: [JavaScript Piano (GitHub Pages)](https://julianachagas.github.io/piano/)
+- Live project: [JavaScript Piano (GitHub Pages)](https://julianachagas.github.io/piano/)
 ### Technologies
 - HTML
 - CSS
@@ -13,8 +13,8 @@ Virtual piano built with HTML, CSS, and JavaScript. The piano keys can be played
 
 Users are able to:
 
-- [x] Play the keys using the mouse (click)
-- [x] Play the keys using the keyboard (keyboard controls are specified in the header)
+- [x] Play the piano using the mouse (click)
+- [x] Play the piano using the keyboard (keyboard controls are specified in the header)
 - [x] Hover the piano for hints: note names and keyboard controls are shown
 ### Concepts practiced
 
