@@ -22,6 +22,7 @@ body {
   min-height: 100vh;
   width: 100%;
   gap: 2vh;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
@@ -146,4 +147,9 @@ h1 {
   .key {
     padding: 1rem 0;
   }
+
+  .container {    
+    padding: 3rem 1.5rem 1.5rem;     
+    height: 355px;
+  }  
 }
